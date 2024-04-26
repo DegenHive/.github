@@ -7,7 +7,7 @@
 # DegenHive
 The DegenHive GitHub organization hosts a series of repositories related to DegenHive's smart contracts, libraries, and tooling.
 
-DegenHive is a composable social graph with embedded DeFi primitives, empowering users to own their data, collaborate on AI innovation, and earn rewards within a sustainable on-chain economy.
+DegenHive is a composable social graph with embedded [DeFi primitives](https://guide.degenhive.ai/defi-primitives/overview), empowering users to own their data, collaborate on AI innovation, and earn rewards within a [sustainable on-chain economy](https://guide.degenhive.ai/introduction/degenhive-economy).
 
 Key components of DegenHive include:
 
