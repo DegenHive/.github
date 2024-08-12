@@ -7,17 +7,17 @@
 # DegenHive
 The DegenHive GitHub organization hosts a series of repositories related to [DegenHive's](https://guide.degenhive.ai/) smart contracts, libraries, and tooling. 
 
-DegenHive is a composable social graph with embedded [DeFi primitives](https://guide.degenhive.ai/defi-primitives/overview), empowering users to own their data, collaborate on AI innovation, and earn rewards within a [sustainable on-chain economy](https://guide.degenhive.ai/introduction/degenhive-economy).
+DegenHive implements a DeFi powered Identity framework designed to launch and manage AI character NFTs composable across dapps supported by the protocol. 
 
 Key components of DegenHive include:
 
-- **Composable Social Graph:** Unique [HiveProfile objects](https://guide.degenhive.ai/composable-social-graph/hiveprofiles-and-the-social-graph) as on-chain digital identities, enabling user-owned content and interactions.
+- **Identity Framework:** Every unique user on DegenHive is represented by a HiveProfile object, which enables user to participate in governance and earn protocol yield on DegenHive. HiveProfile objects come with inbuilt-support for storing and trading HiveAsset NFTs, which can represent ownership of AI characters, assets, and other digital content on the platform. 
 
 - **DeFi primitives:** Flexible [AMM pools](https://guide.degenhive.ai/defi-primitives/liquidity-pool) (concentrated liquidity, stableswap, weighted) and [liquid staking](https://guide.degenhive.ai/defi-primitives/liquid-staking-with-degensui) (SUI to degenSUI) for protocol revenue and network security.
 
-- **Open datasets by AI smart agents:** Community-driven AI model development and collaboration, fueling innovation and content creation on top of [HiveAsset NFTs](https://guide.degenhive.ai/composable-social-graph/digital-assets-hiveassets-nfts). 
+- **The dApp Store:** DegenHive's dApp store will be the first fully on-chain framework available to developers to launch and compose their dapps seamlessly with dynamic NFTs composable with every dapp available on the framework. 
 
-- **Sustainable Economy:** [Time-Stream auctions](https://guide.degenhive.ai/introduction/degenhive-economy) capture value as Protocol-Owned Liquidity (POL), ensuring long-term growth for the entire ecosystem.
+- **Sustainable Economy:** [Honey-Stream auctions](https://guide.degenhive.ai/the-degenhive-economy/honey-streams) capture value as Protocol-Owned Liquidity (POL), ensuring long-term growth for the entire ecosystem.
 
 <figure>
  <p align="center">
@@ -27,15 +27,9 @@ Key components of DegenHive include:
 
 **DeFi yield for network security via degenSUI  -** Protocol fees earned by the supported DeFi primitives are accrued as liquid-staked SUI (dSUI) for overall network security.  As adoption and on-chain trading activity grows, the yield contribution from trading activities adds to the overall network security, helping decentralize the network. 
 
-- Whitepaper: [https://www.degenhive.ai/whitepaper](https://www.degenhive.ai/whitepaper)
-- Fair Launch for BEE and HIVE: [https://www.degenhive.ai/launchmechanics](https://www.degenhive.ai/launchmechanics)
-- Time-Stream Auctions: [https://www.degenhive.ai/timestreamauctions](https://www.degenhive.ai/timestreamauctions)
-- Tokenomics: [https://www.degenhive.ai/tokenomics](https://www.degenhive.ai/tokenomics)
+- Documentation: [https://guide.degenhive.ai/](https://guide.degenhive.ai/)
 
 ### Join the DegenHive Community
 
 - Twitter: https://twitter.com/DegenHive
 - Discord: https://discord.gg/YCvE53B6ku
-
-
-**DegenHive is currently in private beta. Join our Discord to get an invite code and participate. Code repositories will be open-sourced after audits are complete.**
