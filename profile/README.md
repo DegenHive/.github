@@ -1,19 +1,20 @@
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/DegenHive/.github/assets/84127070/6601112a-9560-47a9-af76-a829be8beca4">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/DegenHive/.github/assets/84127070/6601112a-9560-47a9-af76-a829be8beca4">
- <img alt="DegenHive cover pic" src="https://github.com/DegenHive/.github/assets/84127070/6601112a-9560-47a9-af76-a829be8beca4">
-</picture>
+<p align="center">
+  <img alt="DegenHive on Robinhood Chain and Solana" src="./cover.png" width="100%">
+</p>
 
 # DegenHive
-Welcome to the DegenHive GitHub organization! This is the home for all repositories related to DegenHive—featuring smart contracts, libraries, and tooling for our innovative DeFi x P2E ecosystem.
 
-DegenHive merges gaming and decentralized finance through a **gamified meta-DEX and liquid staking protocol.** 
+**An open protocol for meme communities on tokenized stocks, on Robinhood Chain and Solana.**
 
-Players collect, breed, and evolve digital bees into more powerful forms—culminating in epic battles, strategic gameplay, and on-chain governance. 
+Hold memecoins and baskets of tokenized stocks in your Desk and earn a share of every trade others make. Stake a Lab's token to share its daily DGV and its fees, and earn points in the Lab's own app: a game, an AI agent, quests, anything a developer vibe-codes.
 
-These unique bee characters grow stronger through battles, quests, and evolution stages, unlocking powerful abilities as they transform. The gameplay is designed to incentivize engagement while enabling players to earn rewards through the protocol’s liquid staking mechanics.
+| | |
+|---|---|
+| **Desk** | Your account. What it holds earns holder yield. |
+| **Stacks** | Managed baskets of tokenized stocks, always redeemable for the stocks. |
+| **Memes** | Memecoins that launch on a curve, graduate into a locked pool and pay their holders. |
+| **Labs** | Communities on one token: stake to earn, play the Lab's app for points. |
+| **Characters** | 11,111 Stingvestors on Robinhood Chain and 11,111 Fangvestors on Solana. |
+| **DGV** | One token on both chains. The Comb only ever buys it; lockers earn ETH and SOL. |
 
-### Join the DegenHive Community
-
-- Twitter: https://twitter.com/DegenHive
-- Discord: https://discord.gg/YCvE53B6ku
+**Read more:** [Whitepaper](https://docs.degenhive.ai) · [App](https://degenhive.ai) · [X](https://x.com/DegenHive)
